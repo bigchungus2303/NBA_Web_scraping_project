@@ -26,7 +26,9 @@ I. DATA COLLECTION PROCESS:
 
 II. DATA ORGANIZATION:
 
-III. STORAGE OPTIONS:
+III. STORAGE OPTIONS: 
+
+(Pipeline to MySQL server is being developed, will be ready soon)
 
 IV. INSIGHTFUL DASHBOARD:
 
