@@ -32,4 +32,6 @@ III. STORAGE OPTIONS:
 
 IV. INSIGHTFUL DASHBOARD:
 
+(link to Power BI dashboard will be added soon)
+
 V. COMMUNITY COLLABORATION:
