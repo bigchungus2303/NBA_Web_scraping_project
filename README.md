@@ -32,7 +32,7 @@ III. STORAGE OPTIONS:
 
 IV. INSIGHTFUL DASHBOARD:
 
-Ver1: https://app.powerbi.com/links/QgEGGQgfbl?ctid=cb9ebf3a-389a-41c0-aa10-57d5ad8df898&pbi_source=linkShare
+Ver1: https://app.powerbi.com/view?r=eyJrIjoiYjUzNDc4NzYtYzczMC00MTU2LWI3NjUtMTY1MmU4MjI1N2NhIiwidCI6ImNiOWViZjNhLTM4OWEtNDFjMC1hYTEwLTU3ZDVhZDhkZjg5OCJ9
 
 Change log for 14/01/2024
 - Added data from Excel file.
