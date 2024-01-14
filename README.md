@@ -34,7 +34,7 @@ IV. INSIGHTFUL DASHBOARD:
 
 Ver1: https://app.powerbi.com/links/QgEGGQgfbl?ctid=cb9ebf3a-389a-41c0-aa10-57d5ad8df898&pbi_source=linkShare
 
-Change log: 
+Change log for 14/01/2024
 - Added data from Excel file.
 - Added Charts to the report.
 
