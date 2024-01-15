@@ -32,4 +32,12 @@ III. STORAGE OPTIONS:
 
 IV. INSIGHTFUL DASHBOARD:
 
+Ver1: https://app.powerbi.com/view?r=eyJrIjoiYjUzNDc4NzYtYzczMC00MTU2LWI3NjUtMTY1MmU4MjI1N2NhIiwidCI6ImNiOWViZjNhLTM4OWEtNDFjMC1hYTEwLTU3ZDVhZDhkZjg5OCJ9
+
+Change log for 14/01/2024
+- Added data from Excel file.
+- Added Charts to the report.
+
+Ver2:
+
 V. COMMUNITY COLLABORATION:
