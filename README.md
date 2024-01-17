@@ -38,6 +38,8 @@ Change log for 14/01/2024
 - Added data from Excel file.
 - Added Charts to the report.
 
-Ver2:
-
+Change log for 17/01/2024
+- Added team stats data
+- Added total points by teams as a treemap
+  
 V. COMMUNITY COLLABORATION:
