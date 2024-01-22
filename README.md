@@ -28,7 +28,7 @@ II. DATA ORGANIZATION:
 
 III. STORAGE OPTIONS: 
 
-(Pipeline to MySQL server is being developed, will be ready soon)
+Change log for 22/01/2024: have developed pipeline to insert data to MySQL server, next is to deploy a pipeline to a cloud data warehouse, preferably Azure or Snowflake.
 
 IV. INSIGHTFUL DASHBOARD:
 
