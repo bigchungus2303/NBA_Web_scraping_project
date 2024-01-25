@@ -29,6 +29,7 @@ II. DATA ORGANIZATION:
 III. STORAGE OPTIONS: 
 
 Change log for 22/01/2024: have developed pipeline to insert data to MySQL server, next is to deploy a pipeline to a cloud data warehouse, preferably Azure or Snowflake.
+Change log for 24/01/2024: Migrated the data successfully to Google cloud SQL for MySQL
 
 IV. INSIGHTFUL DASHBOARD:
 
@@ -41,5 +42,8 @@ Change log for 14/01/2024
 Change log for 17/01/2024
 - Added team stats data
 - Added total points by teams as a treemap
-  
+
+Change log for 24/01/2024: 
+- Exploring Looker studio, Potentially move from Power BI to Looker as the data are migrated to Google Cloud.
+
 V. COMMUNITY COLLABORATION:
