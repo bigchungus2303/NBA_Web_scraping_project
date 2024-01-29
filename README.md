@@ -45,5 +45,6 @@ Change log for 17/01/2024
 
 Change log for 24/01/2024: 
 - Exploring Looker studio, Potentially move from Power BI to Looker as the data are migrated to Google Cloud.
+- Pending on Looker's report
 
 V. COMMUNITY COLLABORATION:
