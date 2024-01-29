@@ -23,6 +23,7 @@ By embarking on this NBA Web Scraping Project, our aim is to make valuable NBA d
 Join us on this journey as we create a dynamic and insightful NBA data dashboard that enhances your understanding and enjoyment of the game!
 
 I. DATA COLLECTION PROCESS:
+Change log for 29/01/2024: added all_players table
 
 II. DATA ORGANIZATION:
 
