@@ -1,14 +1,17 @@
 Link to the video:
 https://www.youtube.com/watch?v=GFQaEYEc8_8&t=348s
 
-###1NF:
+![image](https://github.com/bigchungus2303/NBA_Web_scraping_project/assets/50546395/1a17274d-e34c-4669-a17f-4b8dc479bef9)
+
+
+### 1NF:
 
 - using row to express order is not permitted
 - mixing data types within the same column is not permitted
 - having table without a primary key is not permitted (NOTE: a primary key can be a combination of 2 or more columns, especially in a many to many relationship)
 - repeating groups are not permitted 
 
-###2NF:
+### 2NF:
 
 - deletion anomaly
 - update anomaly
@@ -23,7 +26,7 @@ https://www.youtube.com/watch?v=GFQaEYEc8_8&t=348s
 
 ![image](https://github.com/bigchungus2303/NBA_Web_scraping_project/assets/50546395/4c030520-f708-4109-9a6a-4afe8f8e0d43)
 
-###3NF:
+### 3NF:
 
 ![image](https://github.com/bigchungus2303/NBA_Web_scraping_project/assets/50546395/9252e276-481d-4fae-ab33-a1a4cc144c72)
 
@@ -39,7 +42,7 @@ for the inconsistency as in the image, player_rating is depend on player_id but 
 
 => again, create another table is the solution.
 
-###5NF:
+### 5NF:
 
 ![image](https://github.com/bigchungus2303/NBA_Web_scraping_project/assets/50546395/83fca233-48dd-408f-b76a-f19d3f8248b6)
 
