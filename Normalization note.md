@@ -8,6 +8,7 @@
 - deletion anomaly
 - update anomaly
 - insertion anomaly
+![image](https://github.com/bigchungus2303/NBA_Web_scraping_project/assets/50546395/2601faba-a814-4199-a173-dbf6a3fb816a)
 
 
 
