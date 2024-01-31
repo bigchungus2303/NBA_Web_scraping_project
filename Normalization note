@@ -1,0 +1,11 @@
+1NF:
+- using row to express order is not permitted
+- mixing data types within the same column is not permitted
+- having table without a primary key is not permitted (NOTE: a primary key can be a combination of 2 or more columns, especially in a many to many relationship)
+- repeating groups are not permitted 
+
+2NF:
+- deletion anomaly
+- update anomaly
+- insertion anomaly
+
