@@ -33,7 +33,7 @@ Change log for 22/01/2024: have developed pipeline to insert data to MySQL serve
 Change log for 24/01/2024: Migrated the data successfully to Google cloud SQL for MySQL
 
 IV. INSIGHTFUL DASHBOARD:
-
+This version is out of date and will be updated soon:
 Ver1: https://app.powerbi.com/view?r=eyJrIjoiYjUzNDc4NzYtYzczMC00MTU2LWI3NjUtMTY1MmU4MjI1N2NhIiwidCI6ImNiOWViZjNhLTM4OWEtNDFjMC1hYTEwLTU3ZDVhZDhkZjg5OCJ9
 
 Change log for 14/01/2024
